@@ -21,6 +21,9 @@ Phaetus Facebook: www.facebook.com/Phaetus3DP
 
 Phaetus Youtube: www.youtube.com/@Phaetus3D
 
+# Youtube link
+Detailed introduction video: https://www.youtube.com/watch?v=z82baTRPayI&t=13s
+
 # Disclaimers
 All models are shared for personal use only and commercial use is prohibited.
 
