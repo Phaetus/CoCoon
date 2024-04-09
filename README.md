@@ -24,6 +24,9 @@ Phaetus Youtube: www.youtube.com/@Phaetus3D
 # Youtube link
 Detailed introduction video: https://www.youtube.com/watch?v=z82baTRPayI&t=13s
 
+# Interactive link
+You could get a better visualisation of CoCoon in advance from this interactive detail link: https://cocoon.phaetus.com/
+
 # Disclaimers
 All models are shared for personal use only and commercial use is prohibited.
 
